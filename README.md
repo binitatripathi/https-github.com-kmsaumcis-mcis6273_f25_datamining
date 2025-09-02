@@ -4,15 +4,14 @@
         <h1>mcis6273-f24-datamining</h1>
         <p><strong>Zotero UserName:</strong> Binita_Tripathi</p>
 
-        <h2>Welcome to the DataMining Course</h2>
-        <p class="highlight">This Message is Really Important Regarding Homework.</p>
+        <div class="container">
+    <h2><b>Welcome to the DataMining Course</b></h2>
+    <p class="highlight">This Message is Really Important Regarding Homework.</p>
 
-        <ul>
-            <li>First Homework</li>
-            <li>Second Homework</li>
-            <li>Third Homework</li>
-            <li>Fourth Homework</li>
-        </ul>
-    </div>
-</body>
-</html>
+    <ul>
+        <li><b>First Homework</b></li>
+        <li><b>Second Homework</b></li>
+        <li><b>Third Homework</b></li>
+        <li><b>Fourth Homework</b></li>
+    </ul>
+</div>
